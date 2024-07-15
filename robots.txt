@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onilatud.github.io/sitemap
+Sitemap: https://onilatud.github.io/app/sitemap
+Sitemap: https://onilatud.github.io/assets/sitemap
+Sitemap: https://onilatud.github.io/css/sitemap
+Sitemap: https://onilatud.github.io/includes/sitemap
+Sitemap: https://onilatud.github.io/item/sitemap
+Sitemap: https://onilatud.github.io/src/sitemap
